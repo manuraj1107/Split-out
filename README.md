@@ -1,5 +1,5 @@
 ## SplitOut
-### splitout is a social media and job portal web page, its kind of alternative or opposite of LinkedIN
+### splitout is a social media and job portal web app, its kind of alternative or opposite of LinkedIN
 
 #### Installing the libraries, packages and modules
 
